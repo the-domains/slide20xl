@@ -1,0 +1,28 @@
+name: Slide20xl
+favicon: null
+layout_spectrum: 0.7353452737443149
+typography_spectrum: 0.8638427017722279
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9809707787353545
+  lightness: 0.26868990203365684
+  saturation: 0.8039143721107394
+  rhythmicContrast: 0.9095907432492822
+purpose: []
