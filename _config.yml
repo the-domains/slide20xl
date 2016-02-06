@@ -1,7 +1,7 @@
 name: testsite2
 favicon: null
-layout_spectrum: 0.7353452737443149
-typography_spectrum: 0.8638427017722279
+layout_spectrum: 1
+typography_spectrum: 0.63392
 title: testsite2
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.9809707787353545
-  lightness: 0.26868990203365684
-  saturation: 0.8039143721107394
-  rhythmicContrast: 0.9095907432492822
+    - '#ffffff'
+    - '#0f2430'
+    - '#347fa1'
+    - '#23591d'
+    - '#809d83'
+  brandStrength: 0.375
+  lightness: 0.3125
+  saturation: 0.375
+  rhythmicContrast: 1
 purpose: []
