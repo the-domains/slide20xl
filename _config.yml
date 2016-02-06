@@ -2,6 +2,7 @@ name: Slide20xl
 favicon: null
 layout_spectrum: 0.7353452737443149
 typography_spectrum: 0.8638427017722279
+title: testsite2
 cta:
   domain: null
   bucket: null
